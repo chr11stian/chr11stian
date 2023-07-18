@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Christian/h1>
+<h1 align="center">👋 Hello! I'm Christian</h1>
 
 <p align="center">
 I'm a fullstack developer.  I currently manage and code for my team Dev; which I launched with one of my best mates and fellow instructors at Cusco. I also work as a full stack developer for MERN, MARN, a startup focused on guestlist and event management.   
