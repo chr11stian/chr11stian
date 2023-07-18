@@ -86,6 +86,25 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <br>
 
+**Stats:**
+
+<!-- IF YOU ARE FORKING THIS, USE [https://github-readme-stats.vercel.app/....] as URL, OTHER URLs CAN BE CHANGED RESULTING YOUR README BROKEN-->
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api?username=chr11stian&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=chr11stian&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://streak-stats.demolab.com/?user=chr11stian&theme=dark&card_width=600" alt="My Streak stats" />
+</a>
+<a href="#">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chr11stian&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+</a>
+<br/>
+<br/>
+
+**Languages and Tools:**
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
