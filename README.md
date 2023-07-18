@@ -108,7 +108,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 ### Quick stats about me
 | Github Stats | Top Languages |
 | --- | --- |
-| ![Christian's github stats](https://github-readme-stats.vercel.app/api?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true)](https://github.com/chr11stian/github-readme-stats)| ![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
 
