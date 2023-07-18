@@ -18,38 +18,40 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <h3>How I'd define myself...literally</h3>
 
- ```ruby
- class Sy < Person
-   def initialize
-     @name = 'Christian'
-     @age = 33
-     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
-     @education = [ 'UNSAAC-computation', 'USP-IME' ]
-     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
-   end
+```ruby
+class Sy < Person
+  def initialize
+    @name = 'Christian'
+    @age = 33
+    @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+    @education = [ 'UNSAAC-computation', 'USP-IME' ]
+    @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+  end
 
-   def current_location
-     'Cusco, CU, PERU'
-   end
+  def current_location
+    'Cusco, CU, PERU'
+  end
 
-   def next_locations
-     ['Sao Paulo, SP', 'Brazil, BRA']
-   end
+  def next_locations
+    ['Sao Paulo, SP', 'Brazil, BRA']
+  end
 
-   def currently
-     {
-       studying: [ 'Computer Science' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
-      }
-   end
- end
- ```
- 
+  def currently
+    {
+      studying: [ 'Computer Science' ],
+      reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+      tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+     }
+  end
+end
+```
+
 <br>
 
 ### What I always play with
+
 <p> 
+    <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/E23237" />
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
@@ -62,6 +64,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 <br>
 
 ### What I sometimes play with
+
 <p>
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/jquery_lvyzat.png" alt="jquery-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849659/mapbox_ik768l.png" alt="mapbox-logo">
@@ -105,12 +108,11 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 <br/>
 
 **Languages and Tools:**
+
 ### Quick stats about me
-| Github Stats | Top Languages |
-| --- | --- |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true)](https://github.com/chr11stian/github-readme-stats)| ![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-
-
+| Github Stats                                                                                                                                                           | Top Languages                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true)](https://github.com/chr11stian/github-readme-stats) | ![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=syrashid.syrashid) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/chr11stian) [![Open Source Loves](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/chr11stian)
