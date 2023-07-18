@@ -90,7 +90,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <!-- IF YOU ARE FORKING THIS, USE [https://github-readme-stats.vercel.app/....] as URL, OTHER URLs CAN BE CHANGED RESULTING YOUR README BROKEN-->
 <a href="#">
-  <img align="center" src="https://github-stats-pro.vercel.app/api?username=chr11stian&count_private=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
 </a>
 <a href="#">
   <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=chr11stian&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
