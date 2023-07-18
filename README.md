@@ -51,7 +51,8 @@ end
 ### What I always play with
 
 <p> 
-    <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons/E23237" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/angular.svg" alt="codewhiteweb" height="30" width="40" /></a>
+    
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598850235/html_1_whl9rj.png" alt="html-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849662/javascript_eniubp.png" alt="js-logo">
   <img src="https://res.cloudinary.com/nico1711/image/upload/c_scale,h_30/v1598849661/css_jtfcoz.png" alt="css-logo">
