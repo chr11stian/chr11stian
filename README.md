@@ -56,19 +56,15 @@ end
 <br>
 
 **Stats:**
-
+| Github Stats|Top Languages|
 <!-- IF YOU ARE FORKING THIS, USE [https://github-readme-stats.vercel.app/....] as URL, OTHER URLs CAN BE CHANGED RESULTING YOUR README BROKEN-->
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=chr11stian&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://streak-stats.demolab.com/?user=chr11stian&theme=dark&card_width=600" alt="My Streak stats" />
-</a>
-<a href="#">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chr11stian&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
+| <a href="#"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="My GitHub stats" />
+</a> |
+<a href="#"> <img align="center" src="https://github-stats-pro.vercel.app/api/top-langs/?username=chr11stian&layout=compact&langs_count=8&hide=jupyter%20notebook,smalltalk,cuda,dockerfile,tsql,makefile&theme=dark" alt="My Lang stats" />
+</a> |
+<a href="#"> <img align="center" src="https://streak-stats.demolab.com/?user=chr11stian&theme=dark&card_width=600" alt="My Streak stats" />
+</a> |
+<a href="#"> <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=chr11stian&custom_title=Prabor%27s%20Contribution&theme=react&bg_color=151515&point=ffffff&radius=10" alt="My GitHub stats" />
 </a>
 <br/>
 <br/>
@@ -77,7 +73,7 @@ end
 
 ### Quick stats about me
 
-| Github Stats                                                                                                                                                           | Top Languages                                                                                                                                                                                                                    |
+| Github Stats|Top Languages|
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chr11stian&include_all_commits=true)](https://github.com/chr11stian/github-readme-stats) | ![Christian's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chr11stian&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
