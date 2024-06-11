@@ -9,10 +9,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian/)](https://www.linkedin.com/in/christian/)
-  [![Medium Badge](https://img.shields.io/badge/-@syrashid-03a57a?style=flat-square&label&logo=Medium&link=https://medium.com/@christian/)](https://christian.medium.com)
-  [![Gmail Badge](https://img.shields.io/badge/-sy@mangotree.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jc.yunguri@gmail.com)](mailto:christian@gmail.com)
-  [![Behance Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&label&logo=Behance&link=https://www.behance.net/christian)](https://www.behance.net/christian)
+  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian/)](https://www.linkedin.com/in/christian-yunguri/)  
 </div>
 <br>
 
@@ -23,9 +20,8 @@ class Sy < Person
   def initialize
     @name = 'Christian'
     @age = 33
-    @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
     @education = [ 'UNSAAC-computation', 'USP-IME' ]
-    @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+    @hobbies = [ 'Music Lover', 'drawing' ]
   end
 
   def current_location
@@ -39,8 +35,7 @@ class Sy < Person
   def currently
     {
       studying: [ 'Computer Science' ],
-      reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-      tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      reading: [ 'Albert Camus', 'Haruki murakami' ],
      }
   end
 end
