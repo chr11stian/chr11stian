@@ -9,7 +9,7 @@ When I'm not coding find me taking photos or trying to jump out of the nearest p
 
 <div align="center">
   
-  [![Linkedin Badge](https://img.shields.io/badge/-syrashid-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian/)](https://www.linkedin.com/in/christian-yunguri/)  
+  [![Linkedin Badge](https://img.shields.io/badge/christian-yunguri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christian/)](https://www.linkedin.com/in/christian-yunguri/)  
 </div>
 <br>
 
